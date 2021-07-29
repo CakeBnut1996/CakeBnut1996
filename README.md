@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Melrose Pan
+- 👋 Hi, I’m Melrose Meiyu Pan
 - 👀 I’m interested in applications of deep learning models and data visualizations in mobility/transportation
 - 📫 Send me email at meiyupan@email.arizona.edu
